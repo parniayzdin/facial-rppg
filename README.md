@@ -16,7 +16,7 @@ An experimental remote photoplethysmography (rPPG) prototype built with **C# / A
   <img src="https://raw.githubusercontent.com/pouya-parsa/heart_rate_estimation/7fa4c8b7156909ebadff501d58910ddfb6821e49/readme/preprocess.png" alt="Reference figure showing facial RGB frames, extracted colour signals, and preprocessing stages" width="520">
 </p>
 
-*Reference figure: RGB preprocessing from [Rahman et al. (2016)](https://ep.liu.se/konferensartikel.aspx?Article_No=2&issue=129), linked from [Pouya Parsa’s project](https://github.com/pouya-parsa/heart_rate_estimation). This implementation uses the green channel; the figure illustrates the broader RGB approach.*
+*Reference figure: RGB preprocessing from [Rahman et al. (2016)](https://ep.liu.se/konferensartikel.aspx?Article_No=2&issue=129). This implementation uses the green channel; the figure illustrates the broader RGB approach.*
 
 ## Validation
 
