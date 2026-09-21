@@ -1,0 +1,17 @@
+bin/
+obj/
+node_modules/
+.vs/
+.vscode/
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+*.log
+*.zip
+*.pfx
+*.pem
+.DS_Store
+Thumbs.db
