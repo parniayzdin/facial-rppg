@@ -1,6 +1,4 @@
 <h1 align="center">Facial rPPG</h1>
-<p align="center"><em>Webcam-based pulse estimation through facial colour signals.</em></p>
-
 An experimental remote photoplethysmography (rPPG) prototype built with **C# / ASP.NET Core** and **MediaPipe**. It estimates pulse frequency from small changes in the mean green-channel intensity of two facial regions.
 
 ## Method
